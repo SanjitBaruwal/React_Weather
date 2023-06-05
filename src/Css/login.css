@@ -1,0 +1,7 @@
+.login {
+  height: 92vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+}
